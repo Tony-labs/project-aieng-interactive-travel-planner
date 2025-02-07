@@ -1,0 +1,32 @@
+{
+  "name": "the-hitchhikers-guide-to-puerto-rico",
+  "version": "1.0.0",
+  "description": "A comprehensive guide to exploring Puerto Rico.",
+  "main": "src/app.ts",
+  "scripts": {
+    "start": "ts-node src/app.ts",
+    "build": "tsc",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "typescript": "^4.5.2",
+    "ts-node": "^10.4.0"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.11",
+    "@types/node": "^16.11.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/the-hitchhikers-guide-to-puerto-rico.git"
+  },
+  "keywords": [
+    "Puerto Rico",
+    "travel",
+    "guide",
+    "tourism"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}

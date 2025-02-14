@@ -1,0 +1,448 @@
+Municipality: San Juan
+Attractions:
+  - Old San Juan
+  - San Juan National Historic Site
+  - El Capitolio
+  - Condado Beach
+  - Luis A. Ferré Performing Arts Center
+Restaurants:
+  - Marmalade Restaurant & Wine Bar
+  - Cocina Abierta
+  - Casita Miramar
+Accommodations: Various hotels and inns, including luxury and boutique options.
+Fun Facts:
+  - San Juan is one of the oldest European-founded settlements in the Americas.
+  - It is known as La Ciudad Amurallada (The Walled City).
+
+Municipality: Ponce
+Attractions:
+  - Plaza Las Delicias
+  - Parque de Bombas
+  - Museo de Arte de Ponce
+  - La Guancha Boardwalk
+  - Hacienda Buena Vista
+Restaurants:
+  - El Negocio de Panchi
+  - La Casa del Chef
+  - El Bohio
+Accommodations: Offers a variety of hotels, inns, and guesthouses.
+Fun Facts:
+  - Ponce is known as 'La Perla del Sur' (The Pearl of the South).
+  - It is home to the oldest fire station in Puerto Rico.
+
+Municipality: Bayamón
+Attractions:
+  - Science Park
+  - Bayamón Golf Course
+  - Museo Francisco Oller
+  - Parque del Tren
+  - Comunidad Sábana Seca
+Restaurants:
+  - Placeres Del Mirador
+  - Fogon de Abuela
+  - Faccio Pizza
+Accommodations: Known for cozy local inns and comfortable accommodations.
+Fun Facts:
+  - Bayamón is known as 'El Pueblo del Chicharrón'.
+  - It is an industrial hub within Puerto Rico.
+
+Municipality: Mayagüez
+Attractions:
+  - Plaza Colón
+  - Tropical Agriculture Research Station
+  - Mayagüez Zoo
+  - Catedral Nuestra Señora de la Candelaria
+  - Museo de los Santos
+Restaurants:
+  - El Mesón Sandwiches
+  - El Castillo Sushi Bar
+  - El Almendro
+Accommodations: Offers a variety of hotels, inns, and guesthouses.
+Fun Facts:
+  - Mayagüez is known as 'La Sultana del Oeste' (The Sultaness of the West).
+  - It is home to the only zoo in Puerto Rico.
+
+Municipality: Arecibo
+Attractions:
+  - Arecibo Observatory
+  - Cueva Ventana
+  - Arecibo Lighthouse and Historical Park
+  - Cueva del Indio
+  - Cueva del Viento
+Restaurants:
+  - El Nuevo Guayabo
+  - El Faro
+  - El Buen Sabor
+Accommodations: Known for cozy local inns and comfortable accommodations.
+Fun Facts:
+  - Arecibo is known as 'La Villa del Capitán Correa'.
+  - It is home to the world's largest single-dish radio telescope.
+
+Municipality: Caguas
+Attractions:
+  - Jardín Botánico y Cultural de Caguas
+  - Plaza Palmer
+  - Museo del Tabaco de Caguas
+  - Parque de Bombas de Caguas
+  - Parque de la Juventud
+Restaurants:
+  - El Mesón Sandwiches
+  - El Buen Sabor
+  - El Buen Café
+Accommodations: Known for cozy local inns and comfortable accommodations.
+Fun Facts:
+  - Caguas is known as 'La Ciudad Criolla' (The Creole City).
+  - It is home to the annual Caguas Real Criollo Festival.
+
+Municipality: Guayama
+Attractions:
+  - Guayama Historic Zone
+  - Carite Forest Reserve
+  - Playa Santa María
+  - Museo Casa Cautiño
+  - Guayama Art Museum
+Restaurants:
+  - El Tamarindo
+  - El Nuevo Guayabo
+  - El Mesón Sandwiches
+Accommodations: Known for cozy local inns and comfortable accommodations.
+Fun Facts:
+  - Guayama is known as 'La Ciudad del Guamaní' (The City of the Guamaní).
+  - It is home to the largest sugar mill in the Caribbean.
+
+Municipality: Humacao
+Attractions:
+  - Palmas del Mar
+  - Humacao Nature Reserve
+  - Playa de Humacao
+  - Casa Roig Museum
+  - Reserva Natural de Humacao
+Restaurants:
+  - El Limón
+  - El Nuevo Guayabo
+  - El Mesón Sandwiches
+Accommodations: Known for cozy local inns and comfortable accommodations.
+Fun Facts:
+  - Humacao is known as 'La Perla del Oriente' (The Pearl of the East).
+  - It is home to the largest nature reserve in Puerto Rico.
+
+Municipality: Cabo Rojo
+Attractions:
+  - Cabo Rojo Lighthouse
+  - Playa Sucia
+  - Cabo Rojo National Wildlife Refuge
+  - Los Morrillos Lighthouse
+  - Combate Beach
+Restaurants:
+  - El Nuevo Guayabo
+  - El Bohio
+  - El Mesón Sandwiches
+Accommodations: Known for cozy local inns and comfortable accommodations. Visit the Sunset RV  for a unique experience.
+Fun Facts:
+  - Cabo Rojo is known as 'El Pueblo de Cofresí' (The Town of Cofresí).
+  - It is home to the oldest salt flats in the Western Hemisphere.
+
+Municipality: Aguadilla
+Attractions:
+  - Crash Boat Beach
+  - Las Cascadas Water Park
+  - Punta Borinquen Lighthouse
+  - Aguadilla Ice Skating Arena
+  - Aguadilla Mall
+Restaurants:
+  - El Nuevo Guayabo
+  - El Mesón Sandwiches
+  - El Buen Sabor
+Accommodations: Known for cozy local inns and comfortable accommodations.
+Fun Facts:
+  - Aguadilla is known as 'El Nuevo Jardín del Atlántico' (The New Garden of the Atlantic).
+  - It is home to the Rafael Hernández Airport.
+
+Municipality: Fajardo
+Attractions:
+  - Bioluminescent Bay
+  - Seven Seas Beach
+  - Las Cabezas de San Juan Nature Reserve
+  - Fajardo Lighthouse
+  - El Yunque National Forest
+Restaurants:
+  - El Nuevo Guayabo
+  - El Mesón Sandwiches
+  - El Buen Sabor
+Accommodations: Known for cozy local inns and comfortable accommodations.
+Fun Facts:
+  - Fajardo is known as 'La Metrópolis del Sol Naciente' (The Metropolis of the Rising Sun).
+  - It is home to the largest marina in the Caribbean.
+
+Municipality: Dorado
+Attractions:
+  - Dorado Beach
+  - Dorado Del Mar Golf Club
+  - Balneario de Dorado
+  - Reserva Natural de Humacao
+  - Embassy Suites by Hilton Dorado del Mar Beach Resort
+Restaurants:
+  - El Nuevo Guayabo
+  - El Mesón Sandwiches
+  - El Buen Sabor
+Accommodations: Known for cozy local inns and comfortable accommodations.
+Fun Facts:
+  - Dorado is known as 'El Pueblo del Oro' (The Town of Gold).
+  - It is home to the Dorado Beach Resort.
+
+Municipality: Culebra
+Attractions:
+  - Flamenco Beach
+  - Culebrita Island
+  - Culebra National Wildlife Refuge
+  - Tamarindo Beach
+  - Zoni Beach
+Restaurants:
+  - El Nuevo Guayabo
+  - El Mesón Sandwiches
+  - El Buen Sabor
+Accommodations: Known for cozy local inns and comfortable accommodations.
+Fun Facts:
+  - Culebra is known as 'La Isla Chiquita' (The Little Island).
+  - It is home to some of the most beautiful beaches in the world.
+
+Municipality: Vieques
+Attractions:
+  - Bioluminescent Bay
+  - Vieques National Wildlife Refuge
+  - Sun Bay Beach
+  - Fortín Conde de Mirasol
+  - Esperanza Beach
+Restaurants:
+  - El Nuevo Guayabo
+  - El Mesón Sandwiches
+  - El Buen Sabor
+Accommodations: Known for cozy local inns and comfortable accommodations.
+Fun Facts:
+  - Vieques is known as 'La Isla Nena' (The	Nanny Island).
+  - It is home to the largest bioluminescent bay in the world.
+
+Municipality: Añasco
+Attractions:
+  - Balneario Tres Hermanos
+  - Añasco Beach
+  - Añasco Bay
+  - Añasco Art Museum
+  - Añasco Lighthouse
+Restaurants:
+  - El Nuevo Guayabo
+  - El Mesón Sandwiches
+  - El Buen Sabor
+Accommodations: Known for cozy local inns and comfortable accommodations.
+Fun Facts:
+  - Añasco is known as 'La Ciudad Don Luis' (The City of Don Luis).
+  - It is home to the Añasco Art Museum.
+
+Municipality: Aguada
+Attractions:
+  - Aguada Water Park
+  - Aguada Beach
+  - Aguada Lighthouse
+  - Aguada Museum
+  - Aguada Plaza
+Restaurants:
+  - El Nuevo Guayabo
+  - El Mesón Sandwiches
+  - El Buen Sabor
+Accommodations: Known for cozy local inns and comfortable accommodations.
+Fun Facts:
+  - Aguada is known as 'La Villa de Sotomayor' (The Town of Sotomayor).
+  - It is home to the Aguada Water Park.
+
+Municipality: Aguas Buenas
+Attractions:
+  - Parque de Bombas de Aguas Buenas
+  - Aguas Buenas Water Park
+  - Aguas Buenas Plaza
+  - Aguas Buenas Museum
+  - Aguas Buenas Art Gallery
+Restaurants:
+  - El Nuevo Guayabo
+  - El Mesón Sandwiches
+  - El Buen Sabor
+Accommodations: Known for cozy local inns and comfortable accommodations.
+Fun Facts:
+  - Aguas Buenas is known as 'La Ciudad de las Aguas Claras' (The City of Clear Waters).
+  - It is home to the Aguas Buenas Water Park.
+
+Municipality: Aibonito
+Attractions:
+  - Aibonito Flower Festival
+  - Aibonito Plaza
+  - Aibonito Museum
+  - Aibonito Art Gallery
+  - Aibonito Water Park
+Restaurants:
+  - El Nuevo Guayabo
+  - El Mesón Sandwiches
+  - El Buen Sabor
+Accommodations: Known for cozy local inns and comfortable accommodations.
+Fun Facts:
+  - Aibonito is known as 'La Ciudad de las Flores' (The City of Flowers).
+  - It is home to the Aibonito Flower Festival.
+
+Municipality: Yauco
+Attractions:
+  - Yauco Plaza
+  - Yauco Museum
+  - Yauco Art Gallery
+  - Yauco Water Park
+  - Yauco Lighthouse
+Restaurants:
+  - El Nuevo Guayabo
+  - El Mesón Sandwiches
+  - El Buen Sabor
+Accommodations: Known for cozy local inns and comfortable accommodations.
+Fun Facts:
+  - Yauco is known as 'La Ciudad del Café' (The City of Coffee).
+  - It is home to the Yauco Coffee Festival.
+
+Municipality: Utuado
+Attractions:
+  - Caguana Indigenous Ceremonial Park
+  - Dos Bocas Lake
+  - Caonillas Lake
+  - Utuado Plaza
+  - Utuado Museum
+Restaurants:
+  - El Nuevo Guayabo
+  - El Mesón Sandwiches
+  - El Buen Sabor
+Accommodations: Known for cozy local inns and comfortable accommodations.
+Fun Facts:
+  - Utuado is known as 'El Pueblo del Viví' (The Town of Viví).
+  - It is home to the Caguana Indigenous Ceremonial Park.
+
+Municipality: Trujillo Alto
+Attractions:
+  - Trujillo Alto Plaza
+  - Trujillo Alto Museum
+  - Trujillo Alto Art Gallery
+  - Trujillo Alto Water Park
+  - Trujillo Alto Lighthouse
+Restaurants:
+  - El Nuevo Guayabo
+  - El Mesón Sandwiches
+  - El Buen Sabor
+Accommodations: Known for cozy local inns and comfortable accommodations.
+Fun Facts:
+  - Trujillo Alto is known as 'La Ciudad de los Tres Reyes Magos' (The City of the Three Wise Kings).
+  - It is home to the Trujillo Alto Water Park.
+
+Municipality: Toa Alta
+Attractions:
+  - Toa Alta Plaza
+  - Toa Alta Museum
+  - Toa Alta Art Gallery
+  - Toa Alta Water Park
+  - Toa Alta Lighthouse
+Restaurants:
+  - El Nuevo Guayabo
+  - El Mesón Sandwiches
+  - El Buen Sabor
+Accommodations: Known for cozy local inns and comfortable accommodations.
+Fun Facts:
+  - Toa Alta is known as 'La Ciudad de los Indios' (The City of the Indians).
+  - It is home to the Toa Alta Water Park.
+
+Municipality: San Germán
+Attractions:
+  - Porta Coeli Church
+  - San Germán Historic Zone
+  - San Germán Art Museum
+  - San Germán Water Park
+  - San Germán Lighthouse
+Restaurants:
+  - El Nuevo Guayabo
+  - El Mesón Sandwiches
+  - El Buen Sabor
+Accommodations: Known for cozy local inns and comfortable accommodations.
+Fun Facts:
+  - San Germán is known as 'La Ciudad de las Lomas' (The City of the Hills).
+  - It is home to the Porta Coeli Church.
+
+Municipality: Salinas
+Attractions:
+  - Salinas Plaza
+  - Salinas Museum
+  - Salinas Art Gallery
+  - Salinas Water Park
+  - Salinas Lighthouse
+Restaurants:
+  - El Nuevo Guayabo
+  - El Mesón Sandwiches
+  - El Buen Sabor
+Accommodations: Known for cozy local inns and comfortable accommodations.
+Fun Facts:
+  - Salinas is known as 'La Ciudad del Mojo Isleño' (The City of Island Mojo).
+  - It is home to the Salinas Water Park.
+
+Municipality: Río Grande
+Attractions:
+  - El Yunque National Forest
+  - Coco Beach Golf & Country Club
+  - Carabali Rainforest Park
+  - La Coca Falls
+  - El Portal Rainforest Center
+Restaurants:
+  - El Nuevo Guayabo
+  - El Mesón Sandwiches
+  - El Buen Sabor
+Accommodations: Known for cozy local inns and comfortable accommodations.
+Fun Facts:
+  - Río Grande is known as 'La Ciudad del Yunque' (The City of El Yunque).
+  - It is home to the El Yunque National Forest.
+
+Municipality: Rincón
+Attractions:
+  - Domes Beach
+  - Sandy Beach
+  - Rincón Lighthouse
+  - Tres Palmas Marine Reserve
+  - Steps Beach
+Restaurants:
+  - El Nuevo Guayabo
+  - El Mesón Sandwiches
+  - El Buen Sabor
+Accommodations: Known for cozy local inns and comfortable accommodations.
+Fun Facts:
+  - Rincón is known as 'El Pueblo del Surfing' (The Surfing Town).
+  - It is home to some of the best surfing spots in the Caribbean.
+
+Municipality: Quebradillas
+Attractions:
+  - Guajataca Tunnel
+  - Guajataca Beach
+  - Guajataca Forest Reserve
+  - Guajataca River
+  - Guajataca Lighthouse
+Restaurants:
+  - El Nuevo Guayabo
+  - El Mesón Sandwiches
+  - El Buen Sabor
+Accommodations: Known for cozy local inns and comfortable accommodations.
+Fun Facts:
+  - Quebradillas is known as 'La Ciudad de los Caciques' (The City of the Chiefs).
+  - It is home to the Guajataca Forest Reserve.
+
+Municipality: Cayey
+Attractions:
+  - Carite Forest Reserve
+  - Cerro de la Santa Cruz
+  - Cerro Las Tetas
+  - Cerro La Santa
+  - Cerro de la Santa Rosa
+Restaurants:
+  - El Nuevo Guayabo
+  - El Mesón Sandwiches
+  - El Buen Sabor
+Accommodations: Known for cozy local inns and comfortable accommodations.
+Fun Facts:
+  - Cayey is known as 'La Ciudad de las Brumas' (The City of the Mists).
+  - It is home to the Carite Forest Reserve.
+
